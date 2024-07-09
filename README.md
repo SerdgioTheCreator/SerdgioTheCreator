@@ -2,6 +2,10 @@
   <img height="300" width="600" src="https://i.pinimg.com/originals/50/27/2a/50272a0d34a8666dbe24b03c0544d7ec.gif"  />
 </div>
 
+<p align="center">
+ <img width="600" src="includes/github-snake.svg" alt="snake"/>
+</p>
+
 ###
 
 <h1 align="center">Привет👋 Меня зовут Сергей!</h1>
@@ -59,7 +63,3 @@
   <img width="12" />
   
 </div>
-
-<p align="center">
- <img width="800" src="includes/github-snake.svg" alt="snake"/>
-</p>
