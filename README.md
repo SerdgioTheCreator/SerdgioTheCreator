@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
- <img width="600" src="includes/github-snake.svg" alt="snake"/>
+ <img width="620" src="includes/github-snake.svg" alt="snake"/>
 </p>
 
 ###
@@ -15,6 +15,9 @@
 <div align="center">
   <a href="https://t.me/SerdgioTheCreator" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://vk.com/SerdgioTheCreator" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=vkontakte&logo=vk&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
   </a>
 </div>
 
