@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">👨🏻‍💻  Обо мне</h3>
+<h3 align="left">👨🏻‍💻  Обо мне:</h3>
 
 ###
 
@@ -39,3 +39,9 @@
 ###
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,flask,postgres,docker,nginx,postman,html,githubactions&perline=9)](https://skillicons.dev)
+
+###
+
+<h3 align="left">🤓 Аккаунт Codewars:</h3>
+
+[![codewars](https://www.codewars.com/users/SerdgioTheCreator/badges/large)](https://www.codewars.com/users/SerdgioTheCreator)
