@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://i.pinimg.com/originals/50/27/2a/50272a0d34a8666dbe24b03c0544d7ec.gif"  />
+  <img height="320" width="600" src="https://i.pinimg.com/originals/50/27/2a/50272a0d34a8666dbe24b03c0544d7ec.gif"  />
 </div>
 
 <p align="center">
@@ -16,6 +16,7 @@
   <a href="https://t.me/SerdgioTheCreator" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  &nbsp;
   <a href="https://vk.com/SerdgioTheCreator" target="_blank">
     <img src="https://img.shields.io/static/v1?message=vkontakte&logo=vk&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
   </a>
