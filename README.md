@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="320" width="600" src="https://i.pinimg.com/originals/50/27/2a/50272a0d34a8666dbe24b03c0544d7ec.gif"  />
+  <img width="600" src="https://i.pinimg.com/originals/50/27/2a/50272a0d34a8666dbe24b03c0544d7ec.gif"  />
 </div>
 
 [//]: # (<p align="center">)
