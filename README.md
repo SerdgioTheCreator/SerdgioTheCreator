@@ -42,7 +42,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,postgres,docker,nginx,postman,html,githubactions&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,nginx,postman,html,githubactions&perline=9)](https://skillicons.dev)
 
 ###
 
