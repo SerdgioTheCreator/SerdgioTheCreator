@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+  <img width="220" src="https://cdnl.iconscout.com/lottie/premium/thumb/python-animation-gif-download-9108741.gif" />
 </div>
 
 <h1 align="center">Сергей Коновалов</h1>
