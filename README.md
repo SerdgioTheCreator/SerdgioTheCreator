@@ -1,51 +1,63 @@
 <div align="center">
-  <img width="600" src="https://i.pinimg.com/originals/50/27/2a/50272a0d34a8666dbe24b03c0544d7ec.gif"  />
+  <img width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 </div>
 
-[//]: # (<p align="center">)
-
-[//]: # ( <img width="620" src="includes/github-snake.svg" alt="snake"/>)
-
-[//]: # (</p>)
-
-<h1 align="center">Привет👋 Меня зовут Сергей!</h1>
-
-###
+<h1 align="center">Сергей Коновалов</h1>
+<h3 align="center">Backend Developer (Python)</h3>
 
 <div align="center">
-  <a href="https://t.me/SerdgioTheCreator" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="telegram logo"  />
-  </a>
-  &nbsp;
-  <a href="https://vk.com/SerdgioTheCreator" target="_blank">
-    <img src="https://img.shields.io/badge/Vkontakte-2CA5E0?style=for-the-badge&logo=vk&logoColor=white" height="25" alt="vk logo"  />
-  </a>
-</div>
 
-###
+[![Telegram](https://img.shields.io/badge/Telegram-SerdgioTheCreator-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SerdgioTheCreator)
+[![VK](https://img.shields.io/badge/VK-SerdgioTheCreator-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/SerdgioTheCreator)
+
+</div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KonovalovSergey.SerdgioTheCreator"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KonovalovSergey.SerdgioTheCreator" />
 </div>
 
-###
+---
 
-<h3 align="left">👨🏻‍💻  Обо мне:</h3>
+## 👨‍💻 О себе
 
-###
+Backend-разработчик с практическим опытом разработки веб-приложений и API на Python.
 
-<p align="left">Я начинающий Backend разработчик. Мой путь в IT начался с курса от Яндекс Практикум. В настоящий момент являюсь студентом 4 курса Московского Технического Университета Связи и Информатики.</p>
+Сфокусирован на создании понятной архитектуры, чистого кода и стабильной серверной логики. Умею разбираться в задачах, доводить их до результата и работать в рамках реальных требований.
 
-###
+---
 
-<h3 align="left">🛠 Мой Стек:</h3>
+## 🛠 Технологии
 
-###
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,nginx,postman,html,githubactions&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,nginx,redis,git,linux&perline=9)](https://skillicons.dev)
 
-###
+</div>
 
-<h3 align="left">🤓 Аккаунт Codewars:</h3>
+---
 
-[![codewars](https://www.codewars.com/users/SerdgioTheCreator/badges/large)](https://www.codewars.com/users/SerdgioTheCreator)
+## 💪 Hard Skills
+
+- Проектирование и разработка веб-приложений и REST API  
+- Работа с Django / Django REST Framework / FastAPI  
+- Проектирование и работа с базами данных (PostgreSQL) 
+- Написание и оптимизация SQL-запросов  
+- Docker, docker-compose, Nginx, настройка окружения
+- Написание тестов (pytest)
+- Работа с Git и командной разработкой  
+
+---
+
+## 🤝 Soft Skills
+
+- Ответственный подход к задачам и соблюдение сроков  
+- Умение спокойно воспринимать обратную связь и работать с ней  
+- Коммуникабельность и способность находить общий язык в команде  
+- Уважительное отношение к коллегам и рабочим процессам  
+- Умение самостоятельно разбираться в новых задачах  
+
+---
+
+<div align="center">
+  <i>Открыт к backend-разработке и профессиональному росту 🚀</i>
+</div>
